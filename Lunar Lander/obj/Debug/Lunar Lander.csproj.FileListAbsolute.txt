@@ -1,1 +1,9 @@
 C:\Users\Anthony\Desktop\Programming\C# Projects\Lunar Lander\Lunar Lander\bin\Debug\Lunar Lander.exe.config
+C:\Users\Anthony\Desktop\Programming\C# Projects\Lunar Lander\Lunar Lander\obj\Debug\Lunar Lander.csprojResolveAssemblyReference.cache
+C:\Users\Anthony\Desktop\Programming\C# Projects\Lunar Lander\Lunar Lander\obj\Debug\Lunar_Lander.Form1.resources
+C:\Users\Anthony\Desktop\Programming\C# Projects\Lunar Lander\Lunar Lander\obj\Debug\Lunar_Lander.Properties.Resources.resources
+C:\Users\Anthony\Desktop\Programming\C# Projects\Lunar Lander\Lunar Lander\obj\Debug\Lunar Lander.csproj.GenerateResource.Cache
+C:\Users\Anthony\Desktop\Programming\C# Projects\Lunar Lander\Lunar Lander\bin\Debug\Lunar Lander.exe
+C:\Users\Anthony\Desktop\Programming\C# Projects\Lunar Lander\Lunar Lander\bin\Debug\Lunar Lander.pdb
+C:\Users\Anthony\Desktop\Programming\C# Projects\Lunar Lander\Lunar Lander\obj\Debug\Lunar Lander.exe
+C:\Users\Anthony\Desktop\Programming\C# Projects\Lunar Lander\Lunar Lander\obj\Debug\Lunar Lander.pdb

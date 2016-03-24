@@ -127,7 +127,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(751, 474);
+            this.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.ClientSize = new System.Drawing.Size(1149, 550);
             this.Controls.Add(this.labelScore);
             this.Controls.Add(this.picLander);
             this.Controls.Add(this.labelFuel);
@@ -140,6 +141,7 @@
             this.MaximizeBox = false;
             this.Name = "Form1";
             this.Text = "Lunar Lander";
+            this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
             ((System.ComponentModel.ISupportInitialize)(this.picPlatform)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picLander)).EndInit();
             this.ResumeLayout(false);
